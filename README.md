@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @Sai940214
-- 👀 I’m interested in rock music and DND games
-- 🌱 I’m currently learning basic HTML% & CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : yingcai.zhao@outlook.com
+- 👋 Hi, I’m @Sai
+- 👀 Curiosity keeps me learning
+- 🌱 Currently learning Java and Blender as a newbie
+- 💞️ Open to opportunities!
+- 📫 How to reach me: yingcai.zhao@outlook.com
+
+What I`ve done before:
+- ✨ Setting Media Platform for Architecture brand /
+- ✨ Planning for ACGN commercial project /
+- ✨ Marketing for Indie game /
+- ✨ Editorial magazine's Chinese-English translation/
 
 <!---
 Sai940214/Sai940214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
