@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sai
 - 👀 Curiosity keeps me learning
-- 🌱 Currently learning Java and Blender as a newbie
-- 💞️ Open to opportunities!
+- 🌱 Currently learning Node.JS and Blender as a newbie
+- 💞️ Open to ANY opportunities!
 - 📫 How to reach me: yingcai.zhao@outlook.com
 
 What I`ve done before:
